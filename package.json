@@ -1,8 +1,8 @@
 {
-  "name": "node-spider",
+  "name": "node-data-spider",
   "version": "1.0.0",
   "description": "a network spider for nodeJS",
-  "main": "init.js",
+  "main": "spider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/zaima-zaima/node-spider.git"
   },
   "keywords": ["spider","node"],
-  "author": "",
-  "license": "ISC",
+  "author": "zaima? <1206691662@outlook.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zaima-zaima/node-spider/issues"
   },
