@@ -1,0 +1,24 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "a network spider for nodeJS",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaima-zaima/node-spider.git"
+  },
+  "keywords": ["spider","node"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaima-zaima/node-spider/issues"
+  },
+  "homepage": "https://github.com/zaima-zaima/node-spider#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
